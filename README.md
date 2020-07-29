@@ -1,4 +1,10 @@
 # KC-Inventory-System
+Python Mini project
+
+##User id and password of Database:
+
+User ID : sahil
+and Password : sahil
 
 ## Preview
 
@@ -7,3 +13,4 @@
 ![Output3](https://github.com/SahilPulikal/KC-Inventory-System/blob/master/3.png)
 ![Output4](https://github.com/SahilPulikal/KC-Inventory-System/blob/master/4.png)
 ![Output5](https://github.com/SahilPulikal/KC-Inventory-System/blob/master/5.png)
+
