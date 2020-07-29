@@ -1,7 +1,7 @@
 # KC-Inventory-System
 Python Mini project
 
-##User id and password of Database:
+## User id and password of Database:
 
 User ID : sahil
 and Password : sahil
